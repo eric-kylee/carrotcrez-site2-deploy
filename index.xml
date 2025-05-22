@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>당근이지 사이클 팀</title>
+        <link>https://eric-kylee.github.io/carrot-easy/</link>
+        <description>자전거를 사랑하는 이들의 모임, 추천 코스와 대회 정보를 한눈에!</description>
+        <generator>Hugo -- gohugo.io</generator><language>ko-kr</language>
+            <atom:link href="https://eric-kylee.github.io/carrot-easy/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
