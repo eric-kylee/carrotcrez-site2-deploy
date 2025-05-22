@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 당근이지 사이클 팀</title>
-    <link>https://eric-kylee.github.io/carrot-easy/categories/</link>
+    <link>https://eric-kylee.github.io/carrotcrez-site2-deploy/categories/</link>
     <description>Recent content in Categories on 당근이지 사이클 팀</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
-    <atom:link href="https://eric-kylee.github.io/carrot-easy/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eric-kylee.github.io/carrotcrez-site2-deploy/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
